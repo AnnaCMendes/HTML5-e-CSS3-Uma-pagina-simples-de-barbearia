@@ -1,15 +1,18 @@
-# HTML5 e CSS, Uma página da Web
 
-<ul>
-<li>o H, no html, serve para definir os paragrafos do texto. Os mesmos são númerados de 1 a 6, sendo que o 1 é o mas forte</li>
-<li>p minusculo, indica o paragrafo</li>
-<li>strong, significa forte, deixa o texto em negrito</li></li>
-<li>em, enfase, o que deixa o texto em italico</li>
-<li>head é a cabeça da aplicação, onde passamoas as informações ao navegador e body o corpo dela,
-onde colocamos as informações que serão exibidas na página do navegador.</li>
-<li>ul, lista desordenada</li>
-<li>ol, lista ordenada</li>
-<li>li, marcação dos itens da lista</li></li></li>
-<li>div, dividindo blocos de conteúdo</li></li>
-<li>header, cabeçalho da página</li>
-</ul>
+
+A página de Barbearia é um site para divulgação de comercio, criado especialmente para aprendizagem simples de HTML5 e CSS3.
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- `HTML`: O HTML tem um papel fundamental para criar as estruturas da página que formam a Barbearia. 
+- `CSS`: O CSS tem papel fundamental para criar os estilos que dão vida ao projeto e também na construção da organização e disposição dos elementos na página. Algumas propriedades que foram abordadas:
+  - `Crie o arquivo : index.html`;
+  - `Crie o arquivo : style.css`;
+
+ 
+Neste repositório você tem acesso a todo o material produzido.
+
+## 🛠️ Abrir e rodar o projeto
+
+Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+"# Barbearia" 
